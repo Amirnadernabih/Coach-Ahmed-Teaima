@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 4000px;
+}
+/* Start Whatsapp Icon */
+.call {
+    position: fixed;
+    z-index: 10000;
+    bottom: 40px;
+    right: 40px;
+}
+.call .w-icon {
+    color: #25D366;
+}
+/* End Whatsapp Icon */
+/* Start Navbar */
+.navbar {
+    background-color: #222;
+    height: 84px;
+}
+.navbar .nav-link {
+    color: #FBD20F;
+    letter-spacing: 1px;
+    margin-left: 5px;
+    font-size: 18px;
+}
+.navbar .nav-link.active {
+    color: #FFF;
+}
+.navbar .nav-link:hover {
+    color: #FFF;
+}
+.navbar .nav-icon {
+    font-size: 19px;
+    margin-left: 15px;
+    display: block;
+    margin-top: 8px;
+}
+.navbar .nav-whatsapp {
+    color: #25D366;
+}
+.navbar .nav-whatsapp:hover {
+    color: #128C7E;
+}
+.navbar .nav-insta {
+    color: #405DE6;
+}
+.navbar .nav-insta:hover {
+    color: #5B51D8;
+}
+/* End Navbar */

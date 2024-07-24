@@ -1,0 +1,32 @@
+/* Start Features */
+.features {
+    background-color: #222;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.features h1 {
+    color: #FBD20F;
+    font-size: 55px;
+    margin-bottom: 0;
+}
+.features span {
+    color: #FFF;
+    display: block;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+.features .feat {
+    margin-bottom: 25px;
+}
+.features .feat h3 {
+    color: #FBD20F;
+    font-size: 24px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.features .feat p {
+    color: #F0F0F0;
+    letter-spacing: 1.2px;
+}
+/* End Features */
